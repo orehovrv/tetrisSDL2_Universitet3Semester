@@ -1,0 +1,572 @@
+# depslib dependency file v1.0
+1612120845 source:d:\_googledrive_\Университет\Прога\tetris\main.cpp
+	<SDL2/SDL.h>
+	"SDL_ttf.h"
+	<stdio.h>
+	<stdlib.h>
+	"SCORE.h"
+	"LOGICS_TETRIS.h"
+	"WINDOW_GAME.h"
+	"WINDOW_SCORE.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\sdl\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\sdl\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\sdl\sdl2\include\sdl2\begin_code.h
+
+1583890678 c:\sdl\sdl2\include\sdl2\close_code.h
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\sdl\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\sdl\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\sdl\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1583890678 c:\sdl\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\sdl\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\sdl\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\sdl\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\sdl\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\sdl\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\sdl\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\sdl\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1611684381 source:d:\_googledrive_\Университет\Прога\tetris\src\image.cpp
+	"IMAGE.h"
+
+1611684333 d:\_googledrive_\Университет\Прога\tetris\include\image.h
+	<SDL2/SDL.h>
+
+1612041417 source:d:\_googledrive_\Университет\Прога\tetris\src\window.cpp
+	"WINDOW.h"
+
+1612119951 d:\_googledrive_\Университет\Прога\tetris\include\window.h
+	<SDL2\SDL.h>
+	"SDL_ttf.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"POINT.h"
+
+1603912786 d:\_googledrive_\Университет\Прога\tetris\sdl2_ttf\sdl_ttf.h
+	"SDL2/SDL.h"
+
+1603912786 d:\_googledrive_\Университет\Прога\tetris\sdl_ttf.h
+	"SDL2/SDL.h"
+
+1611744982 source:d:\_googledrive_\Университет\Прога\tetris\src\figure.cpp
+	"FIGURE.h"
+
+1611745243 d:\_googledrive_\Университет\Прога\tetris\include\figure.h
+	<stdio.h>
+	<stdlib.h>
+	"POINT.h"
+
+1611696571 d:\_googledrive_\Университет\Прога\tetris\include\point.h
+
+1611696192 d:\_googledrive_\Университет\Прога\tetris\include\\figure.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"POINT.h"
+
+1611692430 d:\_googledrive_\Университет\Прога\tetris\include\\point.h
+
+1612212752 source:d:\_googledrive_\Университет\Прога\tetris\src\logics_tetris.cpp
+	"LOGICS_TETRIS.h"
+
+1612119134 d:\_googledrive_\Университет\Прога\tetris\include\logics_tetris.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"SCORE.h"
+	"POINT.h"
+
+1612119918 source:d:\_googledrive_\Университет\Прога\tetris\src\window_game.cpp
+	"WINDOW_game.h"
+
+1612197747 d:\_googledrive_\Университет\Прога\tetris\include\window_game.h
+	<SDL2\SDL.h>
+	"SDL_ttf.h"
+	"WINDOW.h"
+	"LOGICS_TETRIS.h"
+	"POINT.h"
+
+1612121057 source:d:\_googledrive_\Университет\Прога\tetris\src\score.cpp
+	"SCORE.h"
+
+1612100358 d:\_googledrive_\Университет\Прога\tetris\include\score.h
+	<stdio.h>
+	<stdlib.h>
+	"POINT.h"
+
+1612102399 source:d:\_googledrive_\Университет\Прога\tetris\src\window_score.cpp
+	"WINDOW_SCORE.h"
+
+1612197733 d:\_googledrive_\Университет\Прога\tetris\include\window_score.h
+	<SDL2\SDL.h>
+	"SDL_ttf.h"
+	"WINDOW.h"
+	"SCORE.h"
+	"POINT.h"
+
+1603912786 d:\_googledrive_\Университет\Прога\tetris\include\sdl_ttf.h
+	"SDL2/SDL.h"
+
+1613999997 source:d:\_googledrive_\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\main.cpp
+	<SDL2/SDL.h>
+	"SDL_ttf.h"
+	<stdio.h>
+	<stdlib.h>
+	"SCORE.h"
+	"LOGICS_TETRIS.h"
+	"WINDOW_GAME.h"
+	"WINDOW_SCORE.h"
+
+1603912786 d:\_googledrive_\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\include\sdl_ttf.h
+	"SDL2/SDL.h"
+
+1613996579 d:\_googledrive_\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\include\score.h
+	<stdio.h>
+	<stdlib.h>
+	"POINT.h"
+
+1611696571 d:\_googledrive_\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\include\point.h
+
+1613997180 d:\_googledrive_\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\include\logics_tetris.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"SCORE.h"
+	"POINT.h"
+
+1613999868 d:\_googledrive_\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\include\window_game.h
+	<SDL2\SDL.h>
+	"SDL_ttf.h"
+	"WINDOW.h"
+	"LOGICS_TETRIS.h"
+	"POINT.h"
+
+1613996084 d:\_googledrive_\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\include\window.h
+	<SDL2\SDL.h>
+	"SDL_ttf.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"POINT.h"
+
+1613999862 d:\_googledrive_\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\include\window_score.h
+	<SDL2\SDL.h>
+	"SDL_ttf.h"
+	"WINDOW.h"
+	"SCORE.h"
+	"POINT.h"
+
+1614015756 source:d:\_googledrive_\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\src\logics_tetris.cpp
+	"LOGICS_TETRIS.h"
+
+1612121057 source:d:\_googledrive_\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\src\score.cpp
+	"SCORE.h"
+
+1613996336 source:d:\_googledrive_\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\src\window.cpp
+	"WINDOW.h"
+
+1614524220 source:d:\_googledrive_\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\src\window_game.cpp
+	"WINDOW_game.h"
+
+1613995892 source:d:\_googledrive_\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\src\window_score.cpp
+	"WINDOW_SCORE.h"
+
+1613999997 source:c:\users\user\google Диск\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\main.cpp
+	<SDL2/SDL.h>
+	"SDL_ttf.h"
+	<stdio.h>
+	<stdlib.h>
+	"SCORE.h"
+	"LOGICS_TETRIS.h"
+	"WINDOW_GAME.h"
+	"WINDOW_SCORE.h"
+
+1603912786 c:\users\user\google Диск\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\include\sdl_ttf.h
+	"SDL2/SDL.h"
+
+1613996579 c:\users\user\google Диск\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\include\score.h
+	<stdio.h>
+	<stdlib.h>
+	"POINT.h"
+
+1611696571 c:\users\user\google Диск\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\include\point.h
+
+1613997180 c:\users\user\google Диск\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\include\logics_tetris.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"SCORE.h"
+	"POINT.h"
+
+1613999868 c:\users\user\google Диск\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\include\window_game.h
+	<SDL2\SDL.h>
+	"SDL_ttf.h"
+	"WINDOW.h"
+	"LOGICS_TETRIS.h"
+	"POINT.h"
+
+1613996084 c:\users\user\google Диск\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\include\window.h
+	<SDL2\SDL.h>
+	"SDL_ttf.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"POINT.h"
+
+1613999862 c:\users\user\google Диск\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\include\window_score.h
+	<SDL2\SDL.h>
+	"SDL_ttf.h"
+	"WINDOW.h"
+	"SCORE.h"
+	"POINT.h"
+
+1612121057 source:c:\users\user\google Диск\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\src\score.cpp
+	"SCORE.h"
+
+1613996336 source:c:\users\user\google Диск\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\src\window.cpp
+	"WINDOW.h"
+
+1614524220 source:c:\users\user\google Диск\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\src\window_game.cpp
+	"WINDOW_game.h"
+
+1613995892 source:c:\users\user\google Диск\Университет\Семестр 3\Основы программирования на ЯВУ\tetris\src\window_score.cpp
+	"WINDOW_SCORE.h"
+
